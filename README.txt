@@ -10,3 +10,4 @@ one more row
 + 1 row
 + absolutly new row
 >>>>>>> faild
+жесть, ещё один пуш
