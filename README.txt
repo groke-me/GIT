@@ -9,5 +9,10 @@ one more row
 =======
 + 1 row
 + absolutly new row
+<<<<<<< HEAD
 >>>>>>> faild
 жесть, ещё один пуш
+=======
++ 1 another one row in faild
++ 2 another one row in faild
+>>>>>>> faild
